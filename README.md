@@ -1,3 +1,6 @@
+![Screenshot](https://raw.githubusercontent.com/furkeen/CRM-Freelancer/master/public/images/freelancer-logos.png)
+
+
 # CRM-Freelancer
 It is CRM for Freelancers. Projects, Customers, Transactions etc.
 
@@ -21,5 +24,4 @@ You can use pull request.<br>
 
 Have a nice projects!<br>
 
-![Screenshot](https://raw.githubusercontent.com/furkeen/CRM-Freelancer/master/public/images/freelancer-logos.png)
 ![Screenshot](screen2.jpg)
