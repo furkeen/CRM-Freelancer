@@ -24,4 +24,4 @@ You can use pull request.<br>
 
 Have a nice projects!<br>
 
-![Screenshot](screen2.jpg)
+![Screenshot](https://raw.githubusercontent.com/furkeen/CRM-Freelancer/master/screen1.jpg)
