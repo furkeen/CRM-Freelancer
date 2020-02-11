@@ -23,5 +23,5 @@ The project based on Codeigniter. <br>
 You can use pull request.<br>
 
 Have a nice projects!<br>
-
 ![Screenshot](https://raw.githubusercontent.com/furkeen/CRM-Freelancer/master/screen1.jpg)
+![Screenshot](https://raw.githubusercontent.com/furkeen/CRM-Freelancer/master/screen2.jpg)
